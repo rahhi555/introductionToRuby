@@ -1,0 +1,3 @@
+module LogFormatter
+  def self.format_log: -> String
+end
